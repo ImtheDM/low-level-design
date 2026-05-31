@@ -1,0 +1,56 @@
+Patterns/abstract_factory/baked_goods/base.py
+  a73d89c66e336516 1-5
+Patterns/abstract_factory/baked_goods/muffin.py
+  a73d89c66e336516 1-5
+Patterns/factory/croissant.py
+  a73d89c66e336516 6
+Patterns/abstract_factory/main.py
+  a73d89c66e336516 1-18
+Patterns/abstract_factory/menu_factory/base.py
+  0be68a53c2816d4b 1-12
+Patterns/factory/muffin.py
+  a73d89c66e336516 6
+Patterns/abstract_factory/baked_goods/croissant.py
+  a73d89c66e336516 1-5
+Patterns/abstract_factory/menu_factory/french_cafe_factory.py
+  0be68a53c2816d4b 1-14
+Patterns/abstract_factory/menu_factory/american_diner_factory.py
+  0be68a53c2816d4b 1-14
+Patterns/factory/backery_factory.py
+  a73d89c66e336516 6-7,9,11,14
+Patterns/abstract_factory/menu_factory/__init__.py
+  0be68a53c2816d4b 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "3cca3f3017c4eb1a76921f5e64128f0c3a602a89",
+  "prompts": {
+    "0be68a53c2816d4b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16b47bee-6282-46ed-b213-e81b602ac2a8",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Deepanshu Mishra",
+      "messages": [],
+      "total_additions": 45,
+      "total_deletions": 0,
+      "accepted_lines": 45,
+      "overriden_lines": 0
+    },
+    "a73d89c66e336516": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52949766-d24b-49f1-9ec8-7fd79fe5c665",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "Deepanshu Mishra",
+      "messages": [],
+      "total_additions": 210,
+      "total_deletions": 7,
+      "accepted_lines": 40,
+      "overriden_lines": 0
+    }
+  }
+}
