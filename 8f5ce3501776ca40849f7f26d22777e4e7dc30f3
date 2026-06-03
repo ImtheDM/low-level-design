@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "8f5ce3501776ca40849f7f26d22777e4e7dc30f3",
+  "prompts": {
+    "cda706ee28da5005": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "26e7196e-42b7-453e-86d3-546fabac59fe",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Deepanshu Mishra",
+      "messages": [],
+      "total_additions": 367,
+      "total_deletions": 79,
+      "accepted_lines": 309,
+      "overriden_lines": 0
+    }
+  }
+}
