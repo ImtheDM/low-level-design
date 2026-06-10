@@ -1,0 +1,36 @@
+Threading/example1.cpp
+  eeb9234f116ff86f 1-4,8-9,11-15,17-18,20,23-27,29-30,32-33,35,39-40,42-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "38c46aa6cf486d7ed803f5af8eef7908c2836b50",
+  "prompts": {
+    "86539245526c19ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d94e55f1-849d-4c77-836d-7afcbf505e59",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Deepanshu Mishra",
+      "messages": [],
+      "total_additions": 1470,
+      "total_deletions": 12,
+      "accepted_lines": 736,
+      "overriden_lines": 0
+    },
+    "eeb9234f116ff86f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3fced352-2346-4604-b4ef-3122bac42c74",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Deepanshu Mishra",
+      "messages": [],
+      "total_additions": 29,
+      "total_deletions": 29,
+      "accepted_lines": 29,
+      "overriden_lines": 0
+    }
+  }
+}
