@@ -1,0 +1,59 @@
+"Movie Ticket Booking/models/seat.py"
+  86539245526c19ee 1-21
+"Movie Ticket Booking/models/theatre.py"
+  86539245526c19ee 1-19
+"Movie Ticket Booking/models/show.py"
+  86539245526c19ee 1-26
+"Movie Ticket Booking/managers/booking_manager.py"
+  86539245526c19ee 1-68
+"Movie Ticket Booking/models/__init__.py"
+  86539245526c19ee 1-8
+"Movie Ticket Booking/models/booking.py"
+  86539245526c19ee 1-34
+"Movie Ticket Booking/managers/show_manager.py"
+  86539245526c19ee 1-61
+"Movie Ticket Booking/models/screen.py"
+  86539245526c19ee 1-17
+"Movie Ticket Booking/models/payment.py"
+  86539245526c19ee 1-25
+"Movie Ticket Booking/strategies/seat_selection.py"
+  86539245526c19ee 1-40
+"Movie Ticket Booking/strategies/__init__.py"
+  86539245526c19ee 1-2
+"Movie Ticket Booking/constants/constants.py"
+  86539245526c19ee 1-34
+"Movie Ticket Booking/managers/seat_manager.py"
+  86539245526c19ee 1-87
+"Movie Ticket Booking/constants/__init__.py"
+  86539245526c19ee 1
+"Movie Ticket Booking/strategies/pricing.py"
+  86539245526c19ee 1-29
+"Movie Ticket Booking/models/movie.py"
+  86539245526c19ee 1-19
+"Movie Ticket Booking/models/user.py"
+  86539245526c19ee 1-13
+"Movie Ticket Booking/managers/__init__.py"
+  86539245526c19ee 1-3
+"Movie Ticket Booking/main.py"
+  86539245526c19ee 1-229
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "f8008fa605e5fb82460a7dbb784527bdba7d6501",
+  "prompts": {
+    "86539245526c19ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d94e55f1-849d-4c77-836d-7afcbf505e59",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Deepanshu Mishra",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 736,
+      "overriden_lines": 0
+    }
+  }
+}
